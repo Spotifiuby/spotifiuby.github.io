@@ -13,5 +13,17 @@ description: Guides & Manuals.
 
 
 ## Installation Guide
+### Mobile Application
+Download the latest apk from here: [**download**](https://github.com/Spotifiuby/)\
+Install the apk.\
+We currently support only Android devices.
+
+### Web Backoffice
+You can access the web backoffice from here: [**link**](https://spotifiuby-backoffice-admin.herokuapp.com/login/).\
+No installation required
+
 ## User Manual: App
+View the user manual for the mobile app here: [**link**](https://docs.google.com/document/d/1yOsWENCgWk0dFE-Tix4oMt6EkhDdX2x5UMxTcG9B2dQ/).
+
 ## User Manual: Backoffice
+View the user manual for the web backoffice here: [**link**](https://docs.google.com/document/d/1ZeulVVG3OGqZLEv6S_OJb6w8Tpbt2WcZGnsd2LZLr1U/).
