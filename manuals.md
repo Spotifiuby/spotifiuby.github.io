@@ -14,7 +14,7 @@ description: Guides & Manuals.
 
 ## Installation Guide
 ### Mobile Application
-Download the latest apk from here: [**download**](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40nicodegiacomo/spotifiuby-app-7da7adf564974737bf288a0b7f1b00ac-signed.apk)\
+Download the latest apk from here: [**download**](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40nicodegiacomo/spotifiuby-app-9a88e5b185b244ddb6c80ed95d9fdfc3-signed.apk)\
 Install the apk.\
 We currently support only Android devices.
 
